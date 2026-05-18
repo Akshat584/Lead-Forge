@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+redis
+celery
+openai
+langchain
+playwright
+python-dotenv
+pydantic
+pydantic-settings
+asyncpg
+alembic
+passlib[bcrypt]
